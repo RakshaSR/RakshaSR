@@ -1,16 +1,26 @@
-### Hi there 👋
+## 👋 &nbsp;Hey there! I'm Raksha
 
-<!--
-**RakshaSR/RakshaSR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨🏻‍💻 &nbsp;About Me
 
-Here are some ideas to get you started:
+💡 &nbsp;Software Engineer @ VMware.\
+🎓 &nbsp;Bachelor of Engineering (BE) focused in Electrical, Electronics and Communications Engineering from Amrutha Institute of Engineering & Management Sciences.\
+🌱 &nbsp;I'm on track for learning more about Data Analytics.\
+✉️ &nbsp;You can shoot me an email at raksha793@gmail.com ! I'll try to respond as soon as I can.\
+📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 &nbsp;Tech Stack
+
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+
+
+### 🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/raksha-s-r-6850b592/"><img src="https://img.shields.io/badge/-Raksha%20S%20R-blue?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:raksha793@gmail.com"><img src="https://img.shields.io/badge/-raksha793%40gmail.com-red?style=flat-square&logo=Gmail&logoColor=white"/></a>
+</p>
