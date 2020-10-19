@@ -10,10 +10,14 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-![Java](https://img.shields.io/badge/-JAVA-brightgreen)&nbsp;
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
+![Java](https://img.shields.io/badge/-JAVA-brightgreen)
+![Python](https://img.shields.io/badge/-PYTHON-orange)&nbsp;
+![Appium](https://img.shields.io/badge/-APPIUM-red)&nbsp;
+![TestNG](https://img.shields.io/badge/-TestNG-blue)&nbsp;
+![Selenium](https://img.shields.io/badge/-SELENIUM-green)&nbsp;
+![Spring-MVC](https://img.shields.io/badge/-Spring--MVC-ff65cd)&nbsp;
+![Tableau](https://img.shields.io/badge/-TABLEAU-orange)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
 
 
 ### 🤝🏻 &nbsp;Connect with Me
