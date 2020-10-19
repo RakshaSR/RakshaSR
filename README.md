@@ -6,7 +6,7 @@
 🎓 &nbsp;Bachelor of Engineering (BE) focused in Electrical, Electronics and Communications Engineering from Amrutha Institute of Engineering & Management Sciences.\
 🌱 &nbsp;I'm on track for learning more about Data Analytics.\
 ✉️ &nbsp;You can shoot me an email at raksha793@gmail.com ! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my <a download href="./Automation_Raksha.docx" class="button special icon fa-download">Resume</a> for more details about me. I'm open to feedback and suggestions!
 
 ### 🛠 &nbsp;Tech Stack
 
