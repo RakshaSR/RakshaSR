@@ -17,8 +17,6 @@
 ![Selenium](https://img.shields.io/badge/-SELENIUM-green)&nbsp;
 ![Spring-MVC](https://img.shields.io/badge/-Spring--MVC-ff65cd)&nbsp;
 ![Tableau](https://img.shields.io/badge/-TABLEAU-orange)&nbsp;
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
-
 
 ### 🤝🏻 &nbsp;Connect with Me
 
