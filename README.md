@@ -10,7 +10,7 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![Java](https://img.shields.io/badge/-JAVA-brightgreen)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
